@@ -1,5 +1,5 @@
 
-# send-it
+# Shareit
 
 This project implements a file transfer system using the RPC library, developed in C++. The goal is to provide a lightweight and efficient solution for transmitting files between devices on a local network.
 
@@ -19,7 +19,7 @@ This project implements a file transfer system using the RPC library, developed 
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/Eloidenovela/send-it.git`
+1. Clone the repository: `git clone https://github.com/Eloidenovela/shareit.git`
 2. Compile the project using a compatible C++ compiler.
 3. Run the program, specifying the mode (client or server) and necessary parameters, such as IP address and port.
 
