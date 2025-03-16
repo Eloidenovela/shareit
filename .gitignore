@@ -3,7 +3,7 @@
 build/
 cache/
 compile_commands.json
-send-it/.cache/
+.cache/
 # MacOS Cache
 .DS_Store
 
